@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "version": "1.0.0",
+        "last_updated": "2023-10-25",
+        "source": "Manual entry"
+    },
+    "categories": {
+        "001": {
+            "name": "tech",
+            "description": "Technical terms"
+        },
+        "002": {
+            "name": "daily",
+            "description": "Daily use terms"
+        }
+    },
+    "terms": [
+        {
+            "category_ids": [
+                "001",
+                "002"
+            ],
+            "mainland": {
+                "zh_cn": "存储",
+                "zh_tw": "存儲"
+            },
+            "taiwan": {
+                "zh_cn": "储存",
+                "zh_tw": "儲存"
+            }
+        },
+        {
+            "category_ids": ["001"],
+            "mainland": {
+                "zh_cn": "字符串",
+                "zh_tw": "字符串"
+            },
+            "taiwan": {
+                "zh_cn": "储存",
+                "zh_tw": "字串"
+            }
+        },
+        {
+            "category_ids": ["001"],
+            "mainland": {
+                "zh_cn": "字符",
+                "zh_tw": "字符"
+            },
+            "taiwan": {
+                "zh_cn": "字元",
+                "zh_tw": "字元"
+            }
+        },
+        {
+            "category_ids": ["001"],
+            "mainland": {
+                "zh_cn": "内存",
+                "zh_tw": "內存"
+            },
+            "taiwan": {
+                "zh_cn": "记忆体",
+                "zh_tw": "記憶體"
+            }
+        },
+        {
+            "category_ids": ["001"],
+            "mainland": {
+                "zh_cn": "字节",
+                "zh_tw": "字節"
+            },
+            "taiwan": {
+                "zh_cn": "位元组",
+                "zh_tw": "位元組"
+            }
+        }
+    ]
+}

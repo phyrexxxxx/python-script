@@ -1,7 +1,7 @@
 {
     "metadata": {
         "version": "1.0.0",
-        "last_updated": "2023-10-25",
+        "last_updated": "2023-10-27",
         "source": "Manual entry"
     },
     "categories": {
@@ -37,7 +37,7 @@
             },
             "taiwan": {
                 "zh_cn": "储存",
-                "zh_tw": "字串"
+                "zh_tw": "儲存"
             }
         },
         {

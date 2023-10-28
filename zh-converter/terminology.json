@@ -1,7 +1,7 @@
 {
     "metadata": {
         "version": "1.0.0",
-        "last_updated": "2023-10-27",
+        "last_updated": "2023-10-29",
         "source": "Manual entry"
     },
     "categories": {
@@ -71,6 +71,17 @@
             "taiwan": {
                 "zh_cn": "位元组",
                 "zh_tw": "位元組"
+            }
+        },
+        {
+            "category_ids": ["001"],
+            "mainland": {
+                "zh_cn": "变量",
+                "zh_tw": "變量"
+            },
+            "taiwan": {
+                "zh_cn": "变数",
+                "zh_tw": "變數"
             }
         }
     ]
